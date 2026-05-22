@@ -29,6 +29,7 @@ import "./tools/greeting";
 import "./tools/rick-roll";
 import "./tools/sqlite-query";
 import "./tools/todays-date";
+import "./tools/random-number";
 
 // Export the Express app for serverless environments
 export { app };
